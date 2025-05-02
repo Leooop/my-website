@@ -10,7 +10,7 @@
   "footer": "Built with <emph>Next.js</emph> and <emph>Tailwind CSS</emph>. <block>Deployed on <emph>Vercel</emph> </block>.",
   "about": {
     "section_title": "ABOUT ME",
-    "content": "<par>Graduated from the École Normale Supérieure de Paris with a PhD in numerical modeling, I chose to redirect my career towards Web software engineering, a field that allows me to realize my passion for creating impactful technological solutions.</par><par>My scientific expertise enables me to tackle technical challenges with a rigorous analytical and evidence based approach.</par>"
+    "content": "<par>PhD in geophysical numerical modeling, I have oriented my career towards web software engineering—a field that allows me to express my passion for developing impactful technological solutions. </par><par>My scientific background equips me with a rigorous, analytical, and evidence-based approach to addressing complex technical challenges.</par>"
   },
   "experience": {
     "section_title": "EXPERIENCE",

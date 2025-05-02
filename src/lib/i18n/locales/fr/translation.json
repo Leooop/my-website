@@ -10,7 +10,7 @@
   "footer": "Developpé avec <emph>Next.js</emph> et <emph>Tailwind CSS</emph>. Déployé sur <emph>Vercel</emph>.",
   "about": {
     "section_title": "À PROPOS",
-    "content": "<par>Diplômé de l’École normale supérieure de Paris avec une thèse en modélisation numérique, j’ai fait le choix de réorienter ma carrière vers l’ingénierie logicielle Web, un domaine qui me permet de concrétiser ma passion pour la création de solutions technologiques impactantes.</par><par>Mon expertise scientifique me permet d'aborder des défis techniques avec une approche analytique rigoureuse.</par>"
+    "content": "<par>Docteur en modélisation numérique appliquée à la géophysique, j’ai orienté ma carrière vers l’ingénierie logicielle web, un domaine qui me permet de concrétiser ma passion pour le développement de solutions technologiques à fort impact. </par><par>Mon parcours scientifique m’apporte une approche rigoureuse, analytique et fondée sur les preuves pour résoudre des problèmes techniques complexes.</par>"
   }, 
   "experience": {
     "section_title": "EXPÉRIENCE",
