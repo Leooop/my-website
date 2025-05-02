@@ -27,10 +27,9 @@ function getExperienceKeys(prefix: string): IExperienceKeys {
   }
 }
 
-const experiences: IExperienceKeys[] = [
-  getExperienceKeys('diving_bear'),
-  getExperienceKeys('phd'),
-]
+const experiences: IExperienceKeys[] = ['station_f', 'diving_bear', 'phd'].map(
+  prefix => getExperienceKeys(prefix),
+)
 
 export default async function Experiences({lng}: {lng: ELanguages}) {
   const {t} = await getTranslation(lng, undefined, {keyPrefix: 'experience'})

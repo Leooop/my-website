@@ -10,14 +10,21 @@
   "footer": "Built with <emph>Next.js</emph> and <emph>Tailwind CSS</emph>. <block>Deployed on <emph>Vercel</emph> </block>.",
   "about": {
     "section_title": "ABOUT ME",
-    "content": "<par>Graduated from the École Normale Supérieure de Paris with a PhD in numerical modeling, I chose to redirect my career towards Web software engineering, a field that allows me to realize my passion for creating impactful technological solutions.</par><par>Initially oriented towards fundamental research, I realized that I am more attracted to projects offering more concrete results in the social sphere. This realization, combined with a strong entrepreneurial spirit, led me to dive into the development of an innovative Web application dedicated to the analysis of trading strategies. This project allowed me to master Web technologies, particularly the MERN stack, while practicing my passion for development, which I have been diligently pursuing for over ten years.</par><par>My scientific expertise enables me to tackle technical challenges with a rigorous analytical approach, while my experience in Web development demonstrates my ability to deliver robust and scalable applications. Versatile and adaptable, I am very comfortable working in a team, with a developed sense of pedagogy and communication.</par><par>Today, I am enthusiastic about putting my interdisciplinary skills to work on innovative and ambitious projects, where I am convinced I can bring significant added value.</par>"
+    "content": "<par>Graduated from the École Normale Supérieure de Paris with a PhD in numerical modeling, I chose to redirect my career towards Web software engineering, a field that allows me to realize my passion for creating impactful technological solutions.</par><par>My scientific expertise enables me to tackle technical challenges with a rigorous analytical and evidence based approach.</par>"
   },
   "experience": {
     "section_title": "EXPERIENCE",
     "view_cv": "View Full Résumé",
+    "station_f_company": "Station F (Paris)",
+    "station_f_role": "Full Stack Developer",
+    "station_f_period": "2024 - PRESENT",
+    "station_f_tags": ["Next.js", "HTML", "Tailwind CSS", "React", "TypeScript", "Prisma", "PostgreSQL", "GraphQL", "Docker"],
+    "station_f_description": "Conception and development of web applications for the largest startup campus in the world",
+    "station_f_description_list": [
+    ],
     "diving_bear_company": "Entrepreneurial Project",
-    "diving_bear_role": "Développeur Full Stack",
-    "diving_bear_period": "2023 - PRESENT",
+    "diving_bear_role": "Full Stack Developer",
+    "diving_bear_period": "2023 - 2024",
     "diving_bear_tags": ["HTML", "Tailwind CSS", "React", "TypeScript", "Nest.js", "Express", "MongoDB", "Docker"],
     "diving_bear_description": "Conception and development of a web application for trading analysis.",
     "diving_bear_description_list": [

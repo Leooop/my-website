@@ -43,7 +43,7 @@ export async function Title({lng}: {lng: ELanguages}) {
 const tabsKeys = ['about', 'experience', 'education']
 function Tabs({lng}: {lng: ELanguages}) {
   return (
-    <ul className='invisible flex h-0 flex-col items-start gap-4 lg:visible'>
+    <ul className='invisible flex h-0 flex-col items-start lg:visible'>
       {tabsKeys.map(tabKey => (
         <li key={tabKey}>
           <Link href={tabKey !== 'about' ? `#${tabKey}` : `#content`}>

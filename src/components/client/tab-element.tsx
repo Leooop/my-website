@@ -20,10 +20,11 @@ export default function TabElement({
   const baseLineClassName = 'bg-slate-600 dark:bg-slate-400'
   const activeClassName = 'text-slate-900 dark:text-slate-100'
   const activeLineClassName = 'bg-slate-900 dark:bg-slate-100 w-16'
+
   return (
     <div
       className={cn(
-        'group flex items-center gap-4 text-xs font-normal tracking-widest hover:text-slate-900 dark:hover:text-slate-100',
+        'group flex items-center gap-x-4 py-4 text-xs font-normal tracking-widest hover:text-slate-900 dark:hover:text-slate-100',
         tabKey === activeSection ? activeClassName : baseClassName,
       )}>
       <TabLine

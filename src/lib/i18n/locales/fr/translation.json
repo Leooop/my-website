@@ -10,14 +10,21 @@
   "footer": "Developpé avec <emph>Next.js</emph> et <emph>Tailwind CSS</emph>. Déployé sur <emph>Vercel</emph>.",
   "about": {
     "section_title": "À PROPOS",
-    "content": "<par>Diplômé de l’École normale supérieure de Paris avec une thèse en modélisation numérique, j’ai fait le choix de réorienter ma carrière vers l’ingénierie logicielle Web, un domaine qui me permet de concrétiser ma passion pour la création de solutions technologiques impactantes.</par><par>Initialement orienté vers la recherche fondamentale, j’ai réalisé que je suis davantage attiré par les projets offrant des résultats plus concrets dans la sphère sociale. Cette prise de conscience, combinée à une fibre entrepreneuriale prononcée, m’a conduit à me plonger dans le développement d'une application Web innovante dédiée à l’analyse de stratégies de trading. Ce projet m’a permis de maîtriser les technologies Web, notamment le stack MERN, tout en mettant en pratique ma passion pour le développement que je pratique avec assiduité depuis plus de dix ans.</par><par>Mon expertise scientifique me permet d'aborder des défis techniques avec une approche analytique rigoureuse, tandis que mon expérience en développement Web démontre ma capacité à livrer des applications robustes et évolutives. Polyvalent et adaptable, je suis très à l'aise dans le travail en équipe, avec un sens développé de la pédagogie et de la communication.</par><par>Aujourd'hui, je suis enthousiaste à l'idée de mettre mes compétences interdisciplinaires au service de projets innovants et ambitieux, où je suis convaincu de pouvoir apporter une valeur ajoutée significative.</par>"
+    "content": "<par>Diplômé de l’École normale supérieure de Paris avec une thèse en modélisation numérique, j’ai fait le choix de réorienter ma carrière vers l’ingénierie logicielle Web, un domaine qui me permet de concrétiser ma passion pour la création de solutions technologiques impactantes.</par><par>Mon expertise scientifique me permet d'aborder des défis techniques avec une approche analytique rigoureuse.</par>"
   }, 
   "experience": {
     "section_title": "EXPÉRIENCE",
     "view_cv": "Voir CV Complet",
+    "station_f_company": "Station F (Paris)",
+    "station_f_role": "Full Stack Developer",
+    "station_f_period": "2024 - PRESENT",
+    "station_f_tags": ["Next.js", "HTML", "Tailwind CSS", "React", "TypeScript", "Prisma", "PostgreSQL", "GraphQL", "Docker"],
+    "station_f_description": "Conception et développement d'applications web pour le plus grand incubateur de startups du monde",
+    "station_f_description_list": [
+    ],
     "diving_bear_company": "Projet Entrepreneurial",
     "diving_bear_role": "Développeur Full Stack",
-    "diving_bear_period": "2023 - PRESENT",
+    "diving_bear_period": "2023 - 2024",
     "diving_bear_tags": ["HTML", "Tailwind CSS", "React", "TypeScript", "Nest.js", "Express", "MongoDB", "Docker"],
     "diving_bear_description": "Conception et developpement d'une application web pour l'analyse de stratégies de trading.",
     "diving_bear_description_list": [
